@@ -1,4 +1,4 @@
-### Hi there 👋 I'm [Guorvo!](https://github.com/Danushka2/Danushka2/)
+### Hi there 👋 I'm [Guorvo!](https://github.com/Guorvo)
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
@@ -13,6 +13,7 @@
 ##### Languages I use
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
@@ -24,6 +25,9 @@
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/-Redux-222222?style=flat&logo=redux)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-222222?style=flat&logo=tailwindcss)
+![MongoDB](https://img.shields.io/badge/-MongoDB-222222?style=flat&logo=mongodb)
 <br/>
 
 ---
