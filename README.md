@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
-## I'm a Data Analyst student from U.T.N and Henry
+## I'm a Fullstack Developer and a Data Analyst student.
 
 - 👨‍💻 I’m currently working on reinforcing my knowlege on javascript.
 - 📚 Learning everything about Frontend and Backend technologies 😅
