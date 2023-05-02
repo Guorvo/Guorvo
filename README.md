@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm [Guorvo!](https://github.com/Guorvo)
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/3og0IV7MOCfnm85iRa/giphy-downsized.gif" />
 
 ## I'm a Fullstack Web Developer!.
 
