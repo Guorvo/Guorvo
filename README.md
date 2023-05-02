@@ -2,21 +2,19 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
-## I'm a Fullstack Developer and a Data Analyst student.
+## I'm a Fullstack Web Developer!.
 
 - 👨‍💻 I’m currently working on reinforcing my knowlege on javascript.
 - 📚 Learning everything about Frontend and Backend technologies 😅
-- 💪🏼 Future Goals: Learn more technologies - find interesting projects - leave a mark!.
+- 💪🏼 Goal: Achieve something remarkable!.
 
 ---
 
-##### Languages I use
+##### Languages Im Learning
 
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3&logoColor=2965f1)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
+![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=nodedotjs)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 
 ##### Some of the technologies I have worked with
 
@@ -25,10 +23,10 @@
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 ![Express](https://img.shields.io/badge/-Express-222222?style=flat&logo=express)
-![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/-Redux-222222?style=flat&logo=redux)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-222222?style=flat&logo=tailwindcss)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-222222?style=flat&logo=mongodb)
+![Vite](https://img.shields.io/badge/-Vite-222222?style=flat&logo=vite)
 <br/>
 
 ---
