@@ -1,14 +1,13 @@
 ### Hi there 👋 I'm [Guorvo!](https://https://guorvo.vercel.app//)
 
-<img align="right" alt="GIF" height="220px" src="https://media.giphy.com/media/3og0IV7MOCfnm85iRa/giphy-downsized.gif" />
+<img align="right" alt="GIF" height="150px" width="100%" object-fit="cover" src="https://media.giphy.com/media/3og0IV7MOCfnm85iRa/giphy-downsized.gif" />
 
-## I'm a Fullstack Web Developer!.
+## I'm a web developer and internet enthusiast!
 
-> I’m currently looking for jobs!
-
-> The only thing that i know is that i know nothing.
-
-> Goal: chair.
+> I’m currently looking for jobs! <br>
+> The only thing that i know is that i know nothing. <br>
+> check out Terraria <br>
+> Goal = 🪑 <br>
 
 ##### Languages Im Learning
 
@@ -38,6 +37,5 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?style=flat&logo=linux&logoColor=white)
 <br/>
 
----
-
-You can find me on [LinkedIn](https://www.linkedin.com/in/guorvo/), [Twitter](https://twitter.com/guorvo_dev) or by my e-mail: lmcuchero@gmail.com
+You can find me on 
+[LinkedIn](https://www.linkedin.com/in/guorvo/), <br>[Twitter](https://twitter.com/guorvo_dev)<br>or by [e-mail](lmcuchero@gmail.com)
