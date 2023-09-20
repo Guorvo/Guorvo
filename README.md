@@ -4,35 +4,38 @@
 
 ## I'm a Fullstack Web Developer!.
 
->  I’m currently looking for jobs!
+> I’m currently looking for jobs!
 
-> Learning everything about Nextjs, looking into Angular 😅
+> The only thing that i know is that i know nothing.
 
->  Goal: Gromit mug!!!.
+> Goal: chair.
 
 ##### Languages Im Learning
 
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=Next.js)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
-![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=Angular)
-
----
+![Laravel](https://img.shields.io/badge/-Laravel-000?style=flat&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-000?style=flat&logo=php&logoColor=white)
 
 ##### Some of the technologies I have worked with
 
-![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
-![Webpack](https://img.shields.io/badge/-Webpack-222222?style=flat&logo=webpack)
-![Javascript](https://img.shields.io/badge/-Javascript-222222?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-222222?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
-![Express](https://img.shields.io/badge/-Express-222222?style=flat&logo=express)
-![Redux](https://img.shields.io/badge/-Redux-222222?style=flat&logo=redux)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-222222?style=flat&logo=tailwindcss)
-![MongoDB](https://img.shields.io/badge/-MongoDB-222222?style=flat&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-222222?style=flat&logo=postgreSQL)
-![Vercel](https://img.shields.io/badge/-Vercel-222222?style=flat&logo=vercel)
-![Vite](https://img.shields.io/badge/-Vite-222222?style=flat&logo=vite)
-![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
+![JavaScript](https://img.shields.io/badge/-Javascript-000?style=flat&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-000?style=flat&logo=react&logoColor=white)
+![NextJS](https://img.shields.io/badge/-NextJS-000?style=flat&logo=Next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-000?style=flat&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000?style=flat&logo=tailwindcss&logoColor=white)
+<br>
+![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000?style=flat&logo=express&logoColor=white)
+![Sequelize](https://img.shields.io/badge/-Sequelize-000?style=flat&logo=sequelize&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=flat&logo=postgreSQL&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-000?style=flat&logo=supabase&logoColor=white)
+<br>
+![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-000?style=flat&logo=vite&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000?style=flat&logo=vercel&logoColor=white)
+![Stripe](https://img.shields.io/badge/-Stripe-000?style=flat&logo=stripe&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-000?style=flat&logo=linux&logoColor=white)
 <br/>
 
 ---
