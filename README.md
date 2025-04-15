@@ -7,36 +7,28 @@
 > Goal = 🪑 <br>
 
 ##### Some of the technologies I have worked with
-![JS](https://img.shields.io/badge/-JS-000?style=flat&logo=javascript&logoColor=white)
 ![TS](https://img.shields.io/badge/-TS-000?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-000?style=flat&logo=react&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-000?style=flat&logo=angular&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-000?style=flat&logo=php&logoColor=white)
-![NextJS](https://img.shields.io/badge/-NextJS-000?style=flat&logo=Next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-000?style=flat&logo=redux&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000?style=flat&logo=tailwindcss&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-000?style=flat&logo=php&logoColor=white)
 <br/>
 ![Firebase](https://img.shields.io/badge/-Firebase-000?style=flat&logo=firebase&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000?style=flat&logo=express&logoColor=white)
-![Sequelize](https://img.shields.io/badge/-Sequelize-000?style=flat&logo=sequelize&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=flat&logo=postgreSQL&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-000?style=flat&logo=supabase&logoColor=white)
+![Sequelize](https://img.shields.io/badge/-Sequelize-000?style=flat&logo=sequelize&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000?style=flat&logo=express&logoColor=white)
 <br/>
-![Godot](https://img.shields.io/badge/-Godot-000?style=flat&logo=godotengine&logoColor=white)
-![Spark AR](https://img.shields.io/badge/-Spark_AR-000?style=flat&logo=sparkar&logoColor=white)
-![Vite](https://img.shields.io/badge/-Vite-000?style=flat&logo=vite&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000?style=flat&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-000?style=flat&logo=vite&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-000?style=flat&logo=linux&logoColor=white)
+![Spark AR](https://img.shields.io/badge/-Spark_AR-000?style=flat&logo=sparkar&logoColor=white)
+![Godot](https://img.shields.io/badge/-Godot-000?style=flat&logo=godotengine&logoColor=white)
 <br/>
 ![Slack](https://img.shields.io/badge/-Slack-000?style=flat&logo=slack&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-000?style=flat&logo=figma&logoColor=white)
 ![Trello](https://img.shields.io/badge/-Trello-000?style=flat&logo=trello&logoColor=white)
-![Stripe](https://img.shields.io/badge/-Stripe-000?style=flat&logo=stripe&logoColor=white)
 ![GTM](https://img.shields.io/badge/-GTM-000?style=flat&logo=googletagmanager&logoColor=white)
-![Salesforce](https://img.shields.io/badge/-Salesforce-000?style=flat&logo=salesforce&logoColor=white)
 <br/>
 You can find me on 
 [LinkedIn](https://www.linkedin.com/in/guorvo/), [Twitter](https://twitter.com/guorvo_dev) or by [e-mail](lmcuchero@gmail.com)
