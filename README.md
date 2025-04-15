@@ -1,4 +1,4 @@
-## Welcome to my GitHub, I'm [Guorvo](https://https://guorvo.vercel.app//)
+## Welcome to my GitHub, I'm [Guorvo](https://guorvo.vercel.app//)
 ### Developer and internet dweller at heart.
 
 > Currently doing web development work and learning about servers/gamedev <br>
